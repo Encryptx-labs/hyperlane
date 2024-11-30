@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../schema.json
+chainId: 59141
+displayName: Linea
+domainId: 59141
+isTestnet: true
+name: linea
+nativeToken:
+  decimals: 18
+  name: Ether
+  symbol: ETH
+protocol: ethereum
+rpcUrls:
+  - http: https://linea-sepolia.blockpi.network/v1/rpc/public
